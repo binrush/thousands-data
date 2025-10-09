@@ -1,8 +1,8 @@
 coordinates:
 - 54.8477
 - 59.1564
-description: ''
-height: 1019
+description: 'Высота уточнена 30 Сентября 2025. Старая высота 1019'
+height: 1027
 images:
 - comment: Вид на вершину с Большого Нургуша
   preview_url: summits/1019-1_vid_na_vershinu_s_bol'shogo_nurgusha_0_preview.jpg
@@ -10,3 +10,6 @@ images:
 interpretation: null
 name: null
 name_alt: null
+prominence: 48
+legacy_ids:
+- "1019-1"

@@ -1,8 +1,8 @@
 coordinates:
 - 54.5023
 - 57.8796
-description: ''
-height: 1030
+description: 'Высота уточнена 30 Сентября 2025. Старая высота 1030'
+height: 1032
 images:
 - comment: Вид на хр. Нары и г. Ямантау с останцев на юге от вершины
   preview_url: summits/1030-1_vid_na_hr._nary_i_g._jamantau_s_ostantsev_na_juge_ot_vershiny_0_preview.jpg
@@ -10,3 +10,6 @@ images:
 interpretation: null
 name: null
 name_alt: null
+prominence: 69
+legacy_ids:
+- "1030-1"

@@ -1,8 +1,8 @@
 coordinates:
 - 54.8605
 - 58.8841
-description: ''
-height: 1080
+description: 'Высота уточнена 30 Сентября 2025. Старая высота 1080'
+height: 1092
 images:
 - comment: Вершина
   preview_url: summits/1080_vershina_0_preview.jpg
@@ -10,3 +10,6 @@ images:
 interpretation: null
 name: null
 name_alt: null
+prominence: 106
+legacy_ids:
+- "1080"

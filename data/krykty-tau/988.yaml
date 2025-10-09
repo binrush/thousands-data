@@ -1,8 +1,8 @@
 coordinates:
 - 53.5891
 - 58.5373
-description: Лес, поляна. На восточном склоне, в ущелье Курузяк - скала Огурец
-height: 1005
+description: Лес, поляна. На восточном склоне, в ущелье Курузяк - скала Огурец. Высота уточнена 30 Сентября 2025. Старая высота 1005
+height: 988
 images:
 - comment: Вершина
   preview_url: summits/1005-1_vershina_0_preview.jpg
@@ -14,3 +14,6 @@ interpretation: <strong>Куру</strong> (тат.) &mdash; голый, пуст
   (баш.) &mdash; гора.
 name: null
 name_alt: Курузяк
+prominence: 38
+legacy_ids:
+- "1005-1"
