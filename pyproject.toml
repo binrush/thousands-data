@@ -1,0 +1,23 @@
+[project]
+name = "thousands-data"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Rushan Shaymardanov",email = "rush.ru@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "typer>=0.20.0",
+    "pyyaml>=6.0",
+    "pillow>=10.0.0",
+    "boto3>=1.28.0",
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.poetry]
+package-mode = false
